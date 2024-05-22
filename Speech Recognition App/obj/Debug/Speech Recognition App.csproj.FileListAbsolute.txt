@@ -1,0 +1,11 @@
+C:\Users\Kyle\source\repos\Speech Recognition App\obj\Debug\Speech Recognition App.csproj.AssemblyReference.cache
+C:\Users\Kyle\source\repos\Speech Recognition App\obj\Debug\Speech Recognition App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kyle\source\repos\Speech Recognition App\obj\Debug\Speech_Recognition_App.Form1.resources
+C:\Users\Kyle\source\repos\Speech Recognition App\obj\Debug\Speech_Recognition_App.Properties.Resources.resources
+C:\Users\Kyle\source\repos\Speech Recognition App\obj\Debug\Speech Recognition App.csproj.GenerateResource.cache
+C:\Users\Kyle\source\repos\Speech Recognition App\obj\Debug\Speech Recognition App.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\Speech Recognition App\bin\Debug\Speech Recognition App.exe.config
+C:\Users\Kyle\source\repos\Speech Recognition App\bin\Debug\Speech Recognition App.exe
+C:\Users\Kyle\source\repos\Speech Recognition App\bin\Debug\Speech Recognition App.pdb
+C:\Users\Kyle\source\repos\Speech Recognition App\obj\Debug\Speech Recognition App.exe
+C:\Users\Kyle\source\repos\Speech Recognition App\obj\Debug\Speech Recognition App.pdb
